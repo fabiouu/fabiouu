@@ -1,11 +1,11 @@
 ### Hi, I'm Fabian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
-Full Stack developer with 5+ years of experience building distributed systems using Agile software development in a multicultural environment.
+Full Cycle developer with 5+ years of experience building distributed systems.
 
 ## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
+- 🔭 I’m currently working on [AppVox](https://github.com/fabiouu/appvox)
+- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 2021 Goal - ❔❔❔❔
